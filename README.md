@@ -10,7 +10,9 @@ They could schedule patients, edit and delete them.
 database (sequelize) and filters
 
 ✉ Do you wanna contact me to give me respectfull opinions, suggestions, tips or just say "hello" ?? 
-https://www.linkedin.com/in/zayra-velasco-5bb934141
-zayra.contacto@gmail.com
+
+☞ https://www.linkedin.com/in/zayra-velasco-5bb934141
+
+☞ zayra.contacto@gmail.com
 
 Good Life! ( ͡~ ͜ʖ ͡°)
