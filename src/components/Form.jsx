@@ -51,18 +51,18 @@ const initialForm = {
     
     if (patient.id) {
       //editing
-      form.id = patient.id
-      const updatedPatients = patients.map((p) => p.id === patient.id ? form : p);
-      setPatients(updatedPatients)
+      form.id = patient.id;
+      const updatedPatients = patients.map((p) =>
+        p.id === patient.id ? form : p
+      );
+      setPatients(updatedPatients);
       setPatient({});
     } else {
       //adding
       form.id = idGenerator();
       setPatients([...patients, form]);
-
     }
     
-
     setForm(initialForm);
   }
 
