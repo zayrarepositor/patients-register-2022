@@ -25,6 +25,7 @@ router.get("/patient/:id", (req, res) => {
   const { id } = req.params;
   patientSchema
     .findById(id)
+    //.find({name:name})
     .then((data) => res.json(data))
     .catch((error) => res.json({ message: error }));
 });
