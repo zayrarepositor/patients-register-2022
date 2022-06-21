@@ -19,5 +19,18 @@
     "postcss": "^8.4.14",
     "tailwindcss": "^2.2.19",
     "vite": "^2.9.9"
-  }
+  },
+  "description": "small front project  - vite/tailwindcss",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zayrarepositor/patients-register-2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zayrarepositor/patients-register-2022/issues"
+  },
+  "homepage": "https://github.com/zayrarepositor/patients-register-2022#readme"
 }
