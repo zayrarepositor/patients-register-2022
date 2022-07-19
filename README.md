@@ -1,18 +1,15 @@
-# patients-register-2022
- small front project  - vite/tailwindcss
-
 ❀ Hey! I am Zayra, a developer student and it is my first very very small project with vite and tailwindcss. 
 
 ☑ Patients Register is a project in progress. It was thought as a helper for my brothers (both phisicians). 
 They could schedule patients, edit and delete them.
 
-✎Next update:
-database (sequelize) and filters
+✎Next update: backend and filters
 
-✉ Do you wanna contact me to give me respectfull opinions, suggestions, tips or just say "hello" ?? 
+☢ You could check out a video demo here ☞ https://youtu.be/etm7RIEPgWs
 
-☞ https://www.linkedin.com/in/zayra-velasco-5bb934141
+✉ Contact info:
 
-☞ zayra.contacto@gmail.com
+linkedIn ☞ https://www.linkedin.com/in/zayra-velasco
+mail ☞ zayra.contacto@gmail.com
 
 Good Life! ( ͡~ ͜ʖ ͡°)
